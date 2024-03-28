@@ -573,7 +573,7 @@ tomli==2.0.1
     # via
     #   coverage
     #   pytest
-torch==2.1.1
+torch==2.1.2
     # via
     #   -c requirements/prod.txt
     #   pytorch-lightning
